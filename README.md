@@ -15,6 +15,6 @@ When my final year of high school rolled around, I decided to challenge myself t
 In the [Archive folder](https://github.com/MoffittAndrew/FigurAI/tree/74f2f643ba8ab282d01d17489dd40ffc97b83ffc/Archive), you can see the older versions of the project as it slowly developed into what it is now. Bear in mind that this was a fun project I did on the side during high school, before I really knew what I was doing with how to format code, how to structure projects, etc. - so don't judge the horrible code quality :(
 
 ### Q: What am I supposed to do with this?
-A: The easiest way to run this project would probably be to download the FigurAI.zip file, then extract and run FigurAI.py (in the Implementation folder). Or you can just poke around the code and laugh and how awful it is.
+A: The easiest way to run this project would probably be to download the [FigurAI.zip](https://github.com/MoffittAndrew/FigurAI/blob/1a68c7ad9f48d98a64d43d13a1fed72594e46250/FigurAI.zip) file, then extract and run FigurAI.py (in the Implementation folder). Or you can just poke around the code and laugh and how awful it is.
 
 Note: This requires you to have the `pygame` and `sqlite3` python modules installed.
