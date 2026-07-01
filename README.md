@@ -6,7 +6,7 @@ This was my high school final-year project, now uploaded here for the world to s
 
 The fun part is that it is invariant to the position, scale, stretch-level, fill-level and even rotation of the shape - no matter what, it'll still (almost always) identify what shape you've drawn.
 
-For more info, I recommend checking out the [FigurAI documentation](https://github.com/MoffittAndrew/FigurAI/blob/74f2f643ba8ab282d01d17489dd40ffc97b83ffc/Documentation/Documentation.pdf), it was part of my submission and gives some project background info and screenshots of it working. Additionally, you can take a look at the [Colab notebook](https://drive.google.com/file/d/1q9NohWSpV-26tznPNLKgz7wIM3fLTttJ/view?usp=sharing) that I used for the vast majority of the model's training.
+For more info, I recommend checking out the [FigurAI documentation](https://github.com/MoffittAndrew/FigurAI/blob/74f2f643ba8ab282d01d17489dd40ffc97b83ffc/Documentation/Documentation.pdf), it was part of my submission and gives some project background info and screenshots of it working. Additionally, you can take a look at the [Colab notebook](https://colab.research.google.com/drive/1q9NohWSpV-26tznPNLKgz7wIM3fLTttJ) that I used for the vast majority of the model's training.
 
 ### Q: Why?
 A: Back in 2021, I watched a video explaining how perceptrons (basic single layer neural networks) worked, and I thought that was pretty cool so I made my own little perceptron ([RectangleCircleAI.py](https://github.com/MoffittAndrew/FigurAI/blob/74f2f643ba8ab282d01d17489dd40ffc97b83ffc/Archive/RectangleCircleAI.py)) that could distinguish between rectangles and circles in python.
